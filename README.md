@@ -1,1 +1,1 @@
-# Expense-Split-App
+Manage your expenses with friends.
